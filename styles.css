@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('images/galaxy-3608029_1920.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+
+}
+h1 {
+    color: #ffffff; */
+}
+
+header {
+    background-color: #333; /* Couleur de fond de la bannière */
+    color: #fff; /* Couleur du texte */
+    text-align: center; /* Centre le texte dans le header */
+    padding: 20px;
+    background: url('images/ban.jpg') center/cover no-repeat; /* Utilise l'image comme fond */
+    position: relative;
+}
+#identifiant1 {color:#fff }
+#identifiant2 {color:#fff }
+#identifiant3 {color:#fff }
+#t1{color:#b150e9 }
+#t2{color:#b150e9 }
+#t3{color:#b150e9 }
+#t4{color:#b150e9 }
+
+
+
+.image{
+    float: right;
+
+}
+.image1{
+    float: left;
+
+}
+
+nav {
+    background-color: #444; /* Couleur de fond de la barre de navigation */
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 15px;
+}
+h1 {
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+}
+/* Style pour les liens au survol */
+nav a:hover {
+    color: #77187a; /* Couleur au survol */
+}
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
